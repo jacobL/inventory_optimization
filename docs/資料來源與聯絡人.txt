@@ -1,0 +1,5 @@
+hi Mico 請問此系統包含以下四個算法(或模型)的輸出嗎? 還有哪些遺漏?
+1.Smart FR : 小維
+2.IDD 久慶 MODEL
+3.G-RMA
+4.Shipping Plan
